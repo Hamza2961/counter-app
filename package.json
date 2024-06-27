@@ -1,0 +1,15 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "productName": "Counter App",
+  "description": "A basic counter app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hamza Syed",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^31.1.0"
+  }
+}
